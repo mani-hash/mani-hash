@@ -104,24 +104,6 @@
 
 ---
 
-### Support:
-
-<p>
-  <a href="https://www.buymeacoffee.com/manimehalan">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="manimehalan"
-    />
-  </a>
-</p>
-
-<br><br>
-
----
-
 ### GitHub Stats:
 
 <table border="1">
@@ -139,6 +121,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+### Support:
+
+<p>
+  <a href="https://www.buymeacoffee.com/manimehalan">
+    <img
+      align="left"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="manimehalan"
+    />
+  </a>
+</p>
+
+<br><br>
 
 ---
 
