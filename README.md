@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mani-hash" alt="mani-hash" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mani-hash&theme=dark_lover" alt="mani-hash" />
   </a>
 </p>
 
@@ -109,15 +109,15 @@
 <table border="1">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&" alt="Contributions" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&theme=dark" alt="Contributions" />
     </td>
   </tr>
 </table>
