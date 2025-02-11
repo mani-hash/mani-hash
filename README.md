@@ -16,19 +16,6 @@
 
 ---
 
-### Connect with Me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/manimehalan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manimehalan" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/14648899" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14648899" height="30" width="40" />
-  </a>
-</p>
-
----
-
 ### Languages and Tools:
 
 <p align="left">
@@ -119,19 +106,49 @@
 
 ### Support:
 
-<p><a href="https://www.buymeacoffee.com/manimehalan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manimehalan" /></a></p><br><br>
+<p>
+  <a href="https://www.buymeacoffee.com/manimehalan">
+    <img
+      align="left"
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      height="50"
+      width="210"
+      alt="manimehalan"
+    />
+  </a>
+</p>
+
+<br><br>
 
 ---
 
 ### GitHub Stats:
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact" alt="mani-hash" /></p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en" alt="mani-hash" /></p>
-</div>
+<table border="1">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&" alt="Contributions" />
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&" alt="mani-hash" /></p>
-</div>
+### Connect with Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/manimehalan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manimehalan" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/14648899" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14648899" height="30" width="40" />
+  </a>
+</p>
