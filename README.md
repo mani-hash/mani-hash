@@ -106,7 +106,7 @@
 
 ### GitHub Stats:
 
-<table border="1">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
@@ -115,12 +115,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2">
       <img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" align="center" />
     </td>
-  </tr>
+  </tr> -->
 </table>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" align="center" />
 
 ---
 
