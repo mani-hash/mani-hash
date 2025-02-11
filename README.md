@@ -122,7 +122,9 @@
   </tr> -->
 </table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" align="center" />
+<center>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" align="center" />
+</center>
 
 ---
 
