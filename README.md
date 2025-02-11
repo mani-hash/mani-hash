@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&theme=dark" alt="Contributions" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" />
     </td>
   </tr>
 </table>
