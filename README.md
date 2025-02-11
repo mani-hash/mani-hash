@@ -19,9 +19,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manimehalan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manimehalan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact" alt="mani-hash" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact" alt="mani-hash" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en" alt="mani-hash" /></p>
+</div>
+<br>
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&" alt="mani-hash" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en" alt="mani-hash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mani-hash&" alt="mani-hash" /></p>
 
