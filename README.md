@@ -150,7 +150,6 @@ Here are some of the languages and tools I work with:
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="svg/jest.svg" alt="jest" width="40" height="40" />
   </a>
-  &nbsp;
 </div>
 
 ###### Devops & Cloud
