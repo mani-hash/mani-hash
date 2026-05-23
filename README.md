@@ -1,16 +1,17 @@
 # Hi 👋, I'm Manimehalan
 
-### A passionate fullstack developer from Sri Lanka
+### A passionate Backend-focused developer from Sri Lanka
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mani-hash&label=Profile%20views&color=0e75b6&style=flat" alt="mani-hash" /> 
-</p>
+I am interested in backend system architecture, distributed services and high concurrency systems.
 
-- 💬 Ask me about **React, Laravel, and Inertia.js**
+
+- Currently focused on: Engineering **high-throughput data pipelines** and optimizing **distributed messaging layers**
+- Actively working on: Designing **event-driven microservices** focused on concurrency, scalability, and system resilience
+- Background: Practical experience building full-stack web applications with **Laravel, Inertia.js, and React**
 
 ---
 
-### 🖥️ Languages and Tools
+### Languages and Tools
 
 Here are some of the languages and tools I work with:
 
@@ -78,59 +79,15 @@ Here are some of the languages and tools I work with:
 
 ---
 
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mani-hash&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mani-hash&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" align="center" />
-    </td>
-  </tr> -->
-</table>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mani-hash&theme=dark" alt="Contributions" />
-</div>
-
----
-
-### 🏆 Github Trophies
+### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mani-hash&theme=dark_lover&no-bg=true&margin-w=15&margin-h=15&column=5" alt="mani-hash" />
-  </a>
+  <img src="github-metrics.svg" alt="Core Profile Statistics" />
 </p>
 
 ---
 
-### 🤝 Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/manimehalan">
-    <img
-      align="left"
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="manimehalan"
-    />
-  </a>
-</p>
-
-<br><br>
-
----
-
-### 📧 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/manimehalan" target="blank">
