@@ -15,194 +15,66 @@
 Here are some of the languages and tools I work with:
 
 ###### Languages
-<div>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="svg/php.svg" alt="php" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="svg/typescript.svg" alt="typescript" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="svg/javascript.svg" alt="javascript" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="svg/c.svg" alt="c" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="svg/cplusplus.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="svg/java.svg" alt="java" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="svg/csharp.svg" alt="csharp" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="svg/python.svg" alt="python" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="svg/html.svg" alt="css3" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="svg/css.svg" alt="html5" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="svg/bash.svg" alt="bash" width="40" height="40" />
-  </a>
-</div>
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=777BB4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=3776AB)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat-square&logo=css3&logoColor=1572B6)
+![Bash](https://img.shields.io/badge/-Bash-000?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
 ###### Frameworks, Utilities & Libraries (frontend and backend)
 
-<div>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="svg/laravel.svg" alt="laravel" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="svg/tailwindcss.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="svg/react.svg" alt="react" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://inertiajs.com" target="_blank" rel="noreferrer">
-    <img src="svg/inertia.png" alt="inertiajs" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="svg/shadcn.png" alt="shadcn" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="svg/bootstrap.svg" alt="bootstrap" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="svg/nodejs.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="svg/sass.svg" alt="sass" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-    <img src="svg/alpinejs.png" alt="alpinejs" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer">
-    <img src="svg/livewire.png" alt="livewire" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/apps/desktop" target="_blank" rel="noreferrer">
-    <img src="svg/dotnet.svg" alt="dotnet" width="40" height="40" />
-  </a>
-</div>
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-000?style=flat-square&logo=inertia&logoColor=9553E9)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=node.js&logoColor=339933)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat-square&logo=sass&logoColor=CC6699)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-000?style=flat-square&logo=alpine.js&logoColor=8BC0D0)
+![Livewire](https://img.shields.io/badge/-Livewire-000?style=flat-square&logo=livewire&logoColor=4E56A6)
+![.NET](https://img.shields.io/badge/-.NET-000?style=flat-square&logo=dotnet&logoColor=512BD4)
 
 ###### Payment Processing
-<div>
-  <a href="https://docs.stripe.com/development" target="_blank" rel="noreferrer">
-    <img src="svg/stripe.svg" alt="stripe" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.payhere.lk/" target="_blank" rel="noreferrer">
-    <img src="svg/payhere.jpeg" alt="payhere" width="40" height="40" />
-  </a>
-</div>
+![Stripe](https://img.shields.io/badge/-Stripe-000?style=flat-square&logo=stripe&logoColor=635BFF)
+![PayHere](https://img.shields.io/badge/-PayHere-000?style=flat-square&logoColor=FFFFFF)
 
 ###### Databases & Caching
 
-<div>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="svg/mariadb.svg" alt="mariadb" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="svg/redis.svg" alt="redis" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="svg/mysql.svg" alt="mysql" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="svg/sqlite.svg" alt="sqlite" width="40" height="40" />
-  </a>
-</div>
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=flat-square&logo=mariadb&logoColor=003545)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis&logoColor=DC382D)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat-square&logo=sqlite&logoColor=003B57)
 
 ###### Testing
 
-<div>
-  <a href="https://phpunit.de/index.html" target="_blank" rel="noreferrer">
-    <img src="svg/phpunit.svg" alt="phpunit" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="svg/jest.svg" alt="jest" width="40" height="40" />
-  </a>
-</div>
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-000?style=flat-square&logo=phpunit&logoColor=366488)
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat-square&logo=jest&logoColor=C21325)
 
 ###### Devops & Cloud
 
-<div>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="svg/docker.svg" alt="docker" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="svg/aws.svg" alt="aws" width="40" height="40" />
-  </a>
-</div>
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 ###### Webservers
 
-<div>
-  <a href="https://www.apache.com" target="_blank" rel="noreferrer">
-    <img src="svg/apache.svg" alt="nginx" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="svg/nginx.svg" alt="nginx" width="40" height="40" />
-  </a>
-</div>
+![Apache](https://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache&logoColor=D22128)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx&logoColor=009639)
 
 ###### Tools & Softwares
 
-<div>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="svg/git.svg" alt="git" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="svg/github.svg" alt="github" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="svg/linux.svg" alt="linux" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://getcomposer.org/" target="_blank" rel="noreferrer">
-    <img src="svg/composer.svg" alt="composer" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="svg/npm.svg" alt="npm" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="svg/vite.svg" alt="vite" width="40" height="40" />
-  </a>
-</div>
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux&logoColor=FCC624)
+![Composer](https://img.shields.io/badge/-Composer-000?style=flat-square&logo=composer&logoColor=885630)
+![npm](https://img.shields.io/badge/-npm-000?style=flat-square&logo=npm&logoColor=CB3837)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat-square&logo=vite&logoColor=646CFF)
 
 ---
 
