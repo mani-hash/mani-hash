@@ -2,7 +2,7 @@
 
 ### A passionate Backend-focused developer from Sri Lanka
 
-I am interested in backend system architecture, distributed services and high concurrency systems.
+I am interested in low latency architecture, distributed services and high concurrency systems.
 
 
 - Currently focused on: Engineering **high-throughput data pipelines** and optimizing **distributed messaging layers**
