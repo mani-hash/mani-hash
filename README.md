@@ -83,10 +83,11 @@ Here are some of the languages and tools I work with:
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Core Profile Statistics" />
+<p align="left">
+  <a href="https://github.com/mani-hash">
+    <img src="https://github-readme-stats-mani.vercel.app/api?username=mani-hash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Manimehalan's GitHub Stats" />
+  </a>
 </p>
-
 ---
 
 ### Connect with Me
