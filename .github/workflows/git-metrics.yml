@@ -21,20 +21,18 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Colombo
-
-          theme: tokyonight
-          config_padding: 0, 10
           config_order: base.header
-          
-          include_all_commits: true
-          count_private: true
 
+          config_theme: tokyonight
+          config_padding: 0, 10
+          
+          repositories_affiliations: owner, collaborator, organization_member
+          base_indepth: yes
+
+          # Precise Language Metrics Engine
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 6
-          
           plugin_languages_indepth: yes
-          
-          # Ignore heavy boilerplate formats entirely
           plugin_languages_skipped: tex, markdown, html, css, blade, hack
